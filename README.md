@@ -18,16 +18,16 @@ Notes: <https://etherpad.tools.ietf.org/p/notes-irtf-104-t2trg>
 
 Please contact the [chairs][] for any slot proposals.
 
-|  Time | Who               | Subject                                                                            | Docs                                                                         |
-|-------|-------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| 16:10 | Chairs            | Intro, RG Status                                                                   | [draft-irtf-t2trg-iot-seccons][seccons] [draft-irtf-t2trg-rest-iot][restiot] |
-| 16:20 | Chairs, various   | Report from [WISHI][], [Pre-IETF work meeting][pre104] and Hackathon               |                                                                              |
-| 16:40 | Michael Koster    | [W3C Community Group on Schema extensions for IoT][iotschemacg]; schema.org update |                                                                              |
-| 16:55 | Matthias Kovatsch | [W3C Web of Things][W3CWoT] WG/IG update                                           |                                                                              |
-| 17:15 | Klaus Hartke      | Using [CoRAL][] to bring more hypermedia to IoT                                    |                                                                              |
-| 17:50 | Christian Amsüss  | Resource Directory Replication                                                     | [draft-amsuess-core-rd-replication][rdrepl]                                  |
-| 18:05 | Chairs            | Meeting Planning, Wrap-up                                                          |                                                                              |
-| 18:10 |                   | end of meeting                                                                     |                                                                              |
+|  Time | Who               | Subject                                                                            | Docs                                                                             |
+|-------|-------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| 16:10 | Chairs            | Intro, RG Status                                                                   | [draft-irtf-t2trg-iot-seccons][seccons] [draft-irtf-t2trg-rest-iot][restiot]     |
+| 16:20 | Chairs, various   | Report from [WISHI][], [Pre-IETF work meeting][pre104] and Hackathon               |                                                                                  |
+| 16:40 | Michael Koster    | [W3C Community Group on Schema extensions for IoT][iotschemacg]; schema.org update |                                                                                  |
+| 16:55 | Matthias Kovatsch | [W3C Web of Things][W3CWoT] WG/IG update                                           |                                                                                  |
+| 17:15 | Klaus Hartke      | Using [CoRAL][] to bring more hypermedia to IoT                                    |                                                                                  |
+| 17:50 | Christian Amsüss  | Resource Directory Replication                                                     | [draft-amsuess-core-rd-replication][rdrepl] [draft-amsuess-t2trg-rdlink][rdlink] |
+| 18:05 | Chairs            | Meeting Planning, Wrap-up                                                          |                                                                                  |
+| 18:10 |                   | end of meeting                                                                     |                                                                                  |
 
 [WISHI]: https://github.com/t2trg/wishi/wiki/Agenda-items
 [pre104]: https://github.com/t2trg/2019-ietf104/wiki/Pre-IETF-T2TRG-work-meeting
@@ -39,6 +39,7 @@ Please contact the [chairs][] for any slot proposals.
 [iotschemacg]: https://www.w3.org/community/iotschema/
 [W3CWoT]: https://www.w3.org/WoT/
 [rdrepl]: https://tools.ietf.org/html/draft-amsuess-core-rd-replication-02
+[rdlink]: https://tools.ietf.org/html/draft-amsuess-t2trg-rdlink-00
 
 
 
